@@ -25,7 +25,7 @@ Prerequisites
 
     3.2 Run the main script in the same terminal
 
-        python src\main.py
+        python main.py
 
     3.3 Results
 
